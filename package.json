@@ -1,0 +1,16 @@
+{
+  "name": "lyon-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "pta": "~1.0.0-alpha.2",
+    "zora": "~5.0.0-beta.1"
+  }
+}
